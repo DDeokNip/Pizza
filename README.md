@@ -4,7 +4,7 @@
 
 주변 이웃끼리 집에 쉬고있는 책을 나눠봐요
 
-**[책을피자 바로가기](http://localhost:3002/Pizza)**
+**[책을피자 바로가기](https://optshj.github.io/Pizza)**
 
 # ⚒️Tech Stack 
 ![KakaoTalk_20250311_141817513](https://github.com/user-attachments/assets/6fd8d18f-6d57-4e68-bd72-762c5c671959)
